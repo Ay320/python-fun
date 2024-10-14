@@ -20,3 +20,6 @@ The goal is to get as close to 21 as possible without going over.
 6. The player loses if:
    - Their total exceeds 21.
    - The computer's score is higher without going over 21.
+
+# file 3 : HangMan
+This is a Python implementation of the classic **Hangman** game. The player must guess the letters in a randomly chosen word before they run out of lives. 
